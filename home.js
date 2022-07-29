@@ -25,9 +25,9 @@ let id = 0;
 //data
 //array image path
 const images = [
-    './img/p1.jpg',
-    './img/p2.jpg',
-    './img/p3.jpg',
+    'img/p1.JPG',
+    'img/p2.JPG',
+    'img/p3.JPG',
 ];
 
 const progressWidht = [
